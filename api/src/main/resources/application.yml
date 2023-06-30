@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/redesocial
-    username: redesocial
-    password: redesocial
+    url: jdbc:postgresql://containers-us-west-89.railway.app:5654/railway
+    username: postgres
+    password: 6SVV3jtqvFR8Q5Z0HMGw
   jpa:
     hibernate:
       ddl-auto: validate
